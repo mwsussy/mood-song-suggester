@@ -4,13 +4,13 @@ import streamlit as st
 
 # Mood to song mapping
 mood_songs = {
-    "Happy": "🎵 Happy – Pharrell Williams",
-    "Sad": "🎵 Let Her Go – Passenger",
-    "Angry": "🎵 In The End – Linkin Park",
-    "Relaxed": "🎵 Weightless – Marconi Union",
-    "Romantic": "🎵 Perfect – Ed Sheeran",
-    "Energetic": "🎵 Can't Stop The Feeling! – Justin Timberlake",
-    "Motivated": "🎵 Believer – Imagine Dragons"
+    "Happy": "🎵 Watermelon Sugar - Harry Styles",
+    "Sad": "🎵 Wicked Game - Chris Isaak",
+    "Angry": "🎵 Another Love - Tom Odell",
+    "Relaxed": "🎵 Fourth Of July - Sufijan Stevens",
+    "Romantic": "🎵 Lovers Rock - TV Girl",
+    "Energetic": "🎵 FASHION - Britney Manson",
+    "Motivated": "🎵 I Ain't Worried - OneRepublic"
 }
 
 # Streamlit UI
